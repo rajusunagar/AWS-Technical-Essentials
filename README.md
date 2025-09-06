@@ -1,9 +1,7 @@
-# AWS-Technical-Essentials
-
-A curated collection of AWS blog resources for interview preparation, organized by key technical areas.
+# A collection of AWS blog resources organized by technical areas.
 
 ## Quick Reference
-- [📋 Complete AWS Services List](resources/aws-services.md) - Comprehensive list of all AWS services
+- [Complete AWS Services List](resources/aws-services.md) - Comprehensive list of all AWS services
 
 ## Foundations
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
