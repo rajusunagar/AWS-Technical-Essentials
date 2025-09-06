@@ -3,109 +3,84 @@
 A curated collection of AWS blog resources for interview preparation, organized by key technical areas.
 
 ## Foundations
-- [AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/aws-well-architected-framework/)
-- [AWS Shared Responsibility Model](https://aws.amazon.com/blogs/security/aws-shared-responsibility-model/)
-- [AWS Global Infrastructure](https://aws.amazon.com/blogs/aws/aws-global-infrastructure/)
-- [Understanding AWS Pricing](https://aws.amazon.com/blogs/aws/new-aws-pricing-calculator/)
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+- [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+- [AWS Pricing Calculator](https://calculator.aws/)
 
 ## Core Compute Services
-- [Amazon EC2 Best Practices](https://aws.amazon.com/blogs/compute/amazon-ec2-best-practices/)
-- [AWS Lambda Deep Dive](https://aws.amazon.com/blogs/compute/aws-lambda-deep-dive/)
-- [Container Services on AWS](https://aws.amazon.com/blogs/containers/)
-- [Auto Scaling Best Practices](https://aws.amazon.com/blogs/compute/auto-scaling-best-practices/)
+- [Amazon EC2 User Guide](https://docs.aws.amazon.com/ec2/)
+- [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/)
+- [Amazon ECS Best Practices](https://docs.aws.amazon.com/AmazonECS/latest/bestpracticesguide/)
+- [Auto Scaling User Guide](https://docs.aws.amazon.com/autoscaling/)
 
 ## Storage & Databases
-- [Amazon S3 Best Practices](https://aws.amazon.com/blogs/storage/amazon-s3-best-practices/)
-- [Amazon RDS Performance Insights](https://aws.amazon.com/blogs/database/amazon-rds-performance-insights/)
-- [DynamoDB Best Practices](https://aws.amazon.com/blogs/database/amazon-dynamodb-best-practices/)
-- [EBS Volume Types Explained](https://aws.amazon.com/blogs/storage/amazon-ebs-volume-types/)
+- [Amazon S3 User Guide](https://docs.aws.amazon.com/s3/)
+- [Amazon RDS User Guide](https://docs.aws.amazon.com/rds/)
+- [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/dynamodb/)
+- [Amazon EBS User Guide](https://docs.aws.amazon.com/ebs/)
 
 ## Networking & Security
-- [VPC Best Practices](https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-best-practices/)
-- [AWS Security Best Practices](https://aws.amazon.com/blogs/security/aws-security-best-practices/)
-- [IAM Best Practices](https://aws.amazon.com/blogs/security/iam-best-practices/)
-- [CloudFront Performance](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-performance/)
+- [Amazon VPC User Guide](https://docs.aws.amazon.com/vpc/)
+- [AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/)
+- [AWS IAM User Guide](https://docs.aws.amazon.com/iam/)
+- [Amazon CloudFront Developer Guide](https://docs.aws.amazon.com/cloudfront/)
 
 ## Monitoring & Operations
-- [CloudWatch Best Practices](https://aws.amazon.com/blogs/mt/cloudwatch-best-practices/)
-- [AWS CloudTrail Deep Dive](https://aws.amazon.com/blogs/mt/aws-cloudtrail-deep-dive/)
-- [Infrastructure as Code with CloudFormation](https://aws.amazon.com/blogs/devops/infrastructure-as-code-cloudformation/)
-- [Cost Optimization Strategies](https://aws.amazon.com/blogs/aws-cost-management/cost-optimization-strategies/)
+- [Amazon CloudWatch User Guide](https://docs.aws.amazon.com/cloudwatch/)
+- [AWS CloudTrail User Guide](https://docs.aws.amazon.com/cloudtrail/)
+- [AWS CloudFormation User Guide](https://docs.aws.amazon.com/cloudformation/)
+- [AWS Cost Management User Guide](https://docs.aws.amazon.com/cost-management/)
 
 ## Architecture Patterns
-- [Microservices on AWS](https://aws.amazon.com/blogs/compute/microservices-on-aws/)
-- [Event-Driven Architecture](https://aws.amazon.com/blogs/compute/event-driven-architecture-aws/)
-- [Serverless Architecture Patterns](https://aws.amazon.com/blogs/compute/serverless-architecture-patterns/)
-- [High Availability Design](https://aws.amazon.com/blogs/architecture/high-availability-design/)
-- [Multi-Region Architecture](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws/)
-- [Decoupling Patterns](https://aws.amazon.com/blogs/compute/building-loosely-coupled-scalable-c-sharp-applications/)
+- [AWS Architecture Center](https://aws.amazon.com/architecture/)
+- [AWS Well-Architected Labs](https://wellarchitectedlabs.com/)
+- [Serverless Application Lens](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/)
+- [Microservices on AWS](https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/)
 
 ## DevOps & CI/CD
-- [AWS CodePipeline Best Practices](https://aws.amazon.com/blogs/devops/aws-codepipeline-best-practices/)
-- [Blue/Green Deployments](https://aws.amazon.com/blogs/compute/bluegreen-deployments-with-amazon-ecs/)
-- [Infrastructure as Code](https://aws.amazon.com/blogs/mt/infrastructure-as-code-best-practices/)
-- [AWS CDK Deep Dive](https://aws.amazon.com/blogs/developer/getting-started-with-the-aws-cdk/)
-- [GitOps with AWS](https://aws.amazon.com/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters/)
-- [Automated Testing Strategies](https://aws.amazon.com/blogs/devops/test-driven-development-for-infrastructure/)
+- [AWS CodePipeline User Guide](https://docs.aws.amazon.com/codepipeline/)
+- [AWS CodeDeploy User Guide](https://docs.aws.amazon.com/codedeploy/)
+- [AWS CDK Developer Guide](https://docs.aws.amazon.com/cdk/)
+- [AWS DevOps Guidance](https://aws.amazon.com/devops/)
 
 ## Data Analytics & Machine Learning
-- [Amazon Redshift Best Practices](https://aws.amazon.com/blogs/big-data/amazon-redshift-best-practices/)
-- [AWS Glue ETL Jobs](https://aws.amazon.com/blogs/big-data/aws-glue-etl-jobs/)
-- [Amazon Kinesis Data Streams](https://aws.amazon.com/blogs/big-data/amazon-kinesis-data-streams/)
-- [SageMaker Model Deployment](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-model-deployment/)
-- [Data Lake Architecture](https://aws.amazon.com/blogs/big-data/build-a-data-lake-foundation/)
-- [Real-time Analytics](https://aws.amazon.com/blogs/big-data/real-time-analytics-with-amazon-kinesis/)
+- [Amazon Redshift Management Guide](https://docs.aws.amazon.com/redshift/)
+- [AWS Glue Developer Guide](https://docs.aws.amazon.com/glue/)
+- [Amazon Kinesis Developer Guide](https://docs.aws.amazon.com/kinesis/)
+- [Amazon SageMaker Developer Guide](https://docs.aws.amazon.com/sagemaker/)
 
 ## Application Integration
-- [Amazon SQS Best Practices](https://aws.amazon.com/blogs/compute/amazon-sqs-best-practices/)
-- [Amazon SNS Message Filtering](https://aws.amazon.com/blogs/compute/amazon-sns-message-filtering/)
-- [AWS Step Functions](https://aws.amazon.com/blogs/compute/aws-step-functions-state-machines/)
-- [Amazon EventBridge Patterns](https://aws.amazon.com/blogs/compute/amazon-eventbridge-event-patterns/)
-- [API Gateway Best Practices](https://aws.amazon.com/blogs/compute/amazon-api-gateway-best-practices/)
-- [Message Queue Patterns](https://aws.amazon.com/blogs/compute/messaging-patterns-for-event-driven-architectures/)
+- [Amazon SQS Developer Guide](https://docs.aws.amazon.com/sqs/)
+- [Amazon SNS Developer Guide](https://docs.aws.amazon.com/sns/)
+- [AWS Step Functions Developer Guide](https://docs.aws.amazon.com/step-functions/)
+- [Amazon EventBridge User Guide](https://docs.aws.amazon.com/eventbridge/)
+- [Amazon API Gateway Developer Guide](https://docs.aws.amazon.com/apigateway/)
 
 ## Migration & Modernization
-- [AWS Migration Strategies](https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/)
-- [Database Migration Best Practices](https://aws.amazon.com/blogs/database/aws-database-migration-service-best-practices/)
-- [Application Modernization](https://aws.amazon.com/blogs/modernizing-with-aws/application-modernization-patterns/)
-- [Legacy System Migration](https://aws.amazon.com/blogs/enterprise-strategy/migrating-legacy-applications/)
-- [Containerization Strategies](https://aws.amazon.com/blogs/containers/modernizing-applications-with-containers/)
-
-## Performance & Optimization
-- [EC2 Performance Optimization](https://aws.amazon.com/blogs/compute/optimizing-amazon-ec2-performance/)
-- [RDS Performance Tuning](https://aws.amazon.com/blogs/database/amazon-rds-performance-tuning/)
-- [Lambda Performance](https://aws.amazon.com/blogs/compute/operating-lambda-performance-optimization-part-1/)
-- [S3 Performance Guidelines](https://aws.amazon.com/blogs/storage/amazon-s3-performance-guidelines/)
-- [CloudFront Optimization](https://aws.amazon.com/blogs/networking-and-content-delivery/amazon-cloudfront-optimization/)
-- [Cost Optimization Techniques](https://aws.amazon.com/blogs/aws-cost-management/cost-optimization-techniques/)
+- [AWS Migration Hub User Guide](https://docs.aws.amazon.com/migrationhub/)
+- [AWS Database Migration Service User Guide](https://docs.aws.amazon.com/dms/)
+- [AWS Application Migration Service User Guide](https://docs.aws.amazon.com/mgn/)
+- [AWS Migration Strategies](https://aws.amazon.com/cloud-migration/)
 
 ## Security & Compliance
-- [AWS Security Hub](https://aws.amazon.com/blogs/security/aws-security-hub-findings/)
-- [AWS Config Rules](https://aws.amazon.com/blogs/mt/aws-config-rules-repository/)
-- [Encryption Best Practices](https://aws.amazon.com/blogs/security/encryption-at-rest-and-in-transit/)
-- [AWS WAF Configuration](https://aws.amazon.com/blogs/security/aws-waf-configuration-best-practices/)
-- [Secrets Management](https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-manager/)
-- [Compliance Automation](https://aws.amazon.com/blogs/security/automating-compliance-with-aws-config/)
+- [AWS Security Hub User Guide](https://docs.aws.amazon.com/securityhub/)
+- [AWS Config Developer Guide](https://docs.aws.amazon.com/config/)
+- [AWS WAF Developer Guide](https://docs.aws.amazon.com/waf/)
+- [AWS Secrets Manager User Guide](https://docs.aws.amazon.com/secretsmanager/)
+- [AWS Compliance Center](https://aws.amazon.com/compliance/)
 
 ## Disaster Recovery & Backup
-- [Disaster Recovery Strategies](https://aws.amazon.com/blogs/architecture/disaster-recovery-strategies/)
-- [AWS Backup Best Practices](https://aws.amazon.com/blogs/storage/aws-backup-best-practices/)
-- [Cross-Region Replication](https://aws.amazon.com/blogs/storage/cross-region-replication-strategies/)
-- [RTO and RPO Planning](https://aws.amazon.com/blogs/architecture/rto-and-rpo-planning/)
-- [Multi-AZ Deployments](https://aws.amazon.com/blogs/database/multi-az-deployments/)
+- [AWS Backup User Guide](https://docs.aws.amazon.com/aws-backup/)
+- [Disaster Recovery on AWS](https://aws.amazon.com/disaster-recovery/)
+- [AWS Resilience Hub User Guide](https://docs.aws.amazon.com/resilience-hub/)
 
 ## Edge Computing & IoT
-- [AWS IoT Core Best Practices](https://aws.amazon.com/blogs/iot/aws-iot-core-best-practices/)
-- [AWS Greengrass](https://aws.amazon.com/blogs/iot/aws-iot-greengrass-edge-computing/)
-- [Edge Computing Patterns](https://aws.amazon.com/blogs/compute/edge-computing-patterns/)
-- [IoT Device Management](https://aws.amazon.com/blogs/iot/iot-device-management-strategies/)
-- [AWS Wavelength](https://aws.amazon.com/blogs/compute/aws-wavelength-ultra-low-latency/)
+- [AWS IoT Core Developer Guide](https://docs.aws.amazon.com/iot/)
+- [AWS IoT Greengrass Developer Guide](https://docs.aws.amazon.com/greengrass/)
+- [AWS Wavelength User Guide](https://docs.aws.amazon.com/wavelength/)
 
 ## Hybrid & Multi-Cloud
-- [AWS Outposts](https://aws.amazon.com/blogs/compute/aws-outposts-hybrid-cloud/)
-- [AWS Direct Connect](https://aws.amazon.com/blogs/networking-and-content-delivery/aws-direct-connect-best-practices/)
-- [Hybrid Cloud Architecture](https://aws.amazon.com/blogs/architecture/hybrid-cloud-architecture-patterns/)
-- [AWS Storage Gateway](https://aws.amazon.com/blogs/storage/aws-storage-gateway-hybrid-cloud/)
-- [Multi-Cloud Strategies](https://aws.amazon.com/blogs/enterprise-strategy/multi-cloud-strategies/)
-
-## hgdhg
+- [AWS Outposts User Guide](https://docs.aws.amazon.com/outposts/)
+- [AWS Direct Connect User Guide](https://docs.aws.amazon.com/directconnect/)
+- [AWS Storage Gateway User Guide](https://docs.aws.amazon.com/storagegateway/)
