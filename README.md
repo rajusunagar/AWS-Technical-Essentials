@@ -2,6 +2,9 @@
 
 A curated collection of AWS blog resources for interview preparation, organized by key technical areas.
 
+## Quick Reference
+- [📋 Complete AWS Services List](resources/aws-services.md) - Comprehensive list of all AWS services
+
 ## Foundations
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
@@ -84,3 +87,41 @@ A curated collection of AWS blog resources for interview preparation, organized 
 - [AWS Outposts User Guide](https://docs.aws.amazon.com/outposts/)
 - [AWS Direct Connect User Guide](https://docs.aws.amazon.com/directconnect/)
 - [AWS Storage Gateway User Guide](https://docs.aws.amazon.com/storagegateway/)
+- [Hybrid Cloud Architecture](https://aws.amazon.com/hybrid/)
+- [AWS Snow Family for Hybrid](https://aws.amazon.com/snow/)
+- [Multi-Cloud Strategies](https://aws.amazon.com/blogs/enterprise-strategy/)
+
+## Containers & Serverless
+- [Amazon ECS User Guide](https://docs.aws.amazon.com/AmazonECS/latest/userguide/)
+- [Amazon EKS User Guide](https://docs.aws.amazon.com/eks/)
+- [AWS Fargate User Guide](https://docs.aws.amazon.com/AmazonECS/latest/userguide/what-is-fargate.html)
+- [Amazon ECR User Guide](https://docs.aws.amazon.com/ecr/)
+- [Container Best Practices](https://aws.amazon.com/blogs/containers/)
+- [Serverless Best Practices](https://aws.amazon.com/blogs/compute/)
+
+## Media & Content Delivery
+- [AWS Elemental MediaConvert User Guide](https://docs.aws.amazon.com/mediaconvert/)
+- [AWS Elemental MediaLive User Guide](https://docs.aws.amazon.com/medialive/)
+- [Amazon Interactive Video Service User Guide](https://docs.aws.amazon.com/ivs/)
+- [Amazon Kinesis Video Streams Developer Guide](https://docs.aws.amazon.com/kinesis-video-streams/)
+- [Content Delivery Best Practices](https://aws.amazon.com/blogs/networking-and-content-delivery/)
+
+## Business Applications
+- [Amazon Connect Administrator Guide](https://docs.aws.amazon.com/connect/)
+- [Amazon WorkSpaces Administration Guide](https://docs.aws.amazon.com/workspaces/)
+- [Amazon AppStream 2.0 Administration Guide](https://docs.aws.amazon.com/appstream2/)
+- [Amazon WorkDocs Administration Guide](https://docs.aws.amazon.com/workdocs/)
+- [End User Computing Best Practices](https://aws.amazon.com/blogs/desktop-and-application-streaming/)
+
+## Cost Optimization
+- [AWS Budgets User Guide](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-managing-costs.html)
+- [AWS Cost Explorer User Guide](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html)
+- [AWS Savings Plans User Guide](https://docs.aws.amazon.com/savingsplans/)
+- [AWS Compute Optimizer User Guide](https://docs.aws.amazon.com/compute-optimizer/)
+- [Cost Optimization Best Practices](https://aws.amazon.com/blogs/aws-cost-management/)
+
+## Performance & Optimization
+- [AWS Performance Efficiency Pillar](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/)
+- [Amazon CloudWatch Performance Insights](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PerfInsights.html)
+- [AWS X-Ray Performance Analysis](https://docs.aws.amazon.com/xray/)
+- [Performance Optimization Techniques](https://aws.amazon.com/blogs/architecture/)
