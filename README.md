@@ -1,4 +1,4 @@
-# A collection of AWS blog resources organized by technical areas.
+# A collection of AWS technical blog resources
 
 ## Quick Reference
 - [Complete AWS Services List](resources/aws-services.md) - Comprehensive list of all AWS services
