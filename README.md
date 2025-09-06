@@ -107,3 +107,5 @@ A curated collection of AWS blog resources for interview preparation, organized 
 - [Hybrid Cloud Architecture](https://aws.amazon.com/blogs/architecture/hybrid-cloud-architecture-patterns/)
 - [AWS Storage Gateway](https://aws.amazon.com/blogs/storage/aws-storage-gateway-hybrid-cloud/)
 - [Multi-Cloud Strategies](https://aws.amazon.com/blogs/enterprise-strategy/multi-cloud-strategies/)
+
+## hgdhg
